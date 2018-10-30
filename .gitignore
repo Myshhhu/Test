@@ -27,7 +27,7 @@ hs_err_pid*
 
 
 #IDE folders
-/.idea
-/.settings
+.idea
+.settings
 .project
 .classpath
